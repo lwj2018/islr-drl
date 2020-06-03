@@ -1,0 +1,9 @@
+*__pycache__*
+runs
+cache
+checkpoint
+.vscode
+*.pyc
+*.pth
+*.npy
+*DS_Store*
